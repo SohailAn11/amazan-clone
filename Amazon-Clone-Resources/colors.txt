@@ -1,0 +1,10 @@
+Body BG color #e3e6e6;
+
+
+Hero-img bottom bg color : background: rgb(254,210,199);
+
+background: linear-gradient(180deg, rgba(254,210,199,1) 15%, rgba(254,242,239,1) 100%, rgba(255,255,255,1) 100%);
+
+
+
+body bg color #e3e6e6;
