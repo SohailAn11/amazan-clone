@@ -1,0 +1,1 @@
+This a amazon UI clone using only HTML and CSS.
